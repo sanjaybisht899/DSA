@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DP/1-D/E. Palindrome.md",
+                "file": "DP/subarray-substring-subset-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "E. Palindrome"
+              "title": "subarray-substring-subset-template"
             }
           },
           {
@@ -232,12 +232,20 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "de7c703e20cf5d5c",
+  "active": "a6362d3e26d853b8",
   "lastOpenFiles": [
+    "DP/1-D/Media",
+    "DP/ApproachOrTemplates.md",
+    "DP/1-D/Media/img.png",
+    "DP/subarray-substring-subset-template.md",
+    "GeneralStatments/Readme.md",
+    "README.md",
+    "GeneralStatments",
+    "DP/1-D/G. Max Product subarray.md",
+    "DP/1-D/F. DecodeWays.md",
+    "DP/1-D/E. Palindrome.md",
     "DP/1-D/DecodeWays.md",
     "DP/1-D/D..md",
-    "DP/1-D/E. Palindrome.md",
-    "README.md",
     "DP/1-D/C. House Robber.md",
     "DP/1-D/B. Min Cost Climbing Stairs.md",
     "Sheets/NeetCode Sheet.md",
