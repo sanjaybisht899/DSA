@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DP/Short Notes/ApproachOrTemplates.md",
+                "file": "DP/1-D/Coin Change.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ApproachOrTemplates"
+              "title": "Coin Change"
             }
           }
         ]
@@ -189,11 +189,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a6362d3e26d853b8",
+  "active": "a6f1b7291306f7f5",
   "lastOpenFiles": [
+    "DP/Short Notes/ApproachOrTemplates.md",
+    "DP/1-D/Coin Change.md",
     "DP/Short Notes",
     "DP/Untitled.md",
-    "DP/Short Notes/ApproachOrTemplates.md",
     "Templateds/subarray-substring-subset-template.md",
     "Sheets/NeetCode Sheet.md",
     "Templateds",
