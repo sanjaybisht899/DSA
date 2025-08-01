@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DP/1-D/Longest Increasing Subsequence.md",
+                "file": "DP/1-D/A. Climbing Stairs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longest Increasing Subsequence"
+              "title": "A. Climbing Stairs"
             }
           }
         ],
@@ -204,11 +204,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "da2becd075b21f63",
+  "active": "a6362d3e26d853b8",
   "lastOpenFiles": [
+    "DP/1-D/B. Min Cost Climbing Stairs.md",
+    "DP/1-D/C. House Robber.md",
+    "DP/1-D/A. Climbing Stairs.md",
+    "DP/1-D/Coin Change.md",
+    "DP/1-D/D..md",
+    "DP/1-D/E. Palindrome.md",
+    "DP/1-D/F. DecodeWays.md",
     "DP/1-D/G. Max Product subarray.md",
     "DP/1-D/Longest Increasing Subsequence.md",
-    "DP/1-D/Coin Change.md",
     "DP/Short Notes/ApproachOrTemplates.md",
     "DP/Short Notes",
     "DP/Untitled.md",
@@ -216,17 +222,11 @@
     "Sheets/NeetCode Sheet.md",
     "Templateds",
     "README.md",
-    "DP/1-D/D..md",
-    "DP/1-D/B. Min Cost Climbing Stairs.md",
     "DP/1-D/Media",
     "DP/1-D/Media/img.png",
     "GeneralStatments/Readme.md",
     "GeneralStatments",
-    "DP/1-D/F. DecodeWays.md",
-    "DP/1-D/E. Palindrome.md",
     "DP/1-D/DecodeWays.md",
-    "DP/1-D/C. House Robber.md",
-    "DP/1-D/A. Climbing Stairs.md",
     "Sheets",
     "DP/1-D",
     "DP",
