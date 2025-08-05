@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DP/1-D/12 . Partition Equal Subset Sum.md",
+                "file": "DP/1-D/5. Longest Palindromic Substring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 . Partition Equal Subset Sum"
+              "title": "5. Longest Palindromic Substring"
             }
           }
         ]
@@ -191,18 +191,18 @@
   },
   "active": "2613542f27a32973",
   "lastOpenFiles": [
-    "DP/1-D/10. Word Break.md",
-    "DP/1-D/9. Max Product subarray.md",
-    "Templateds/subarray-substring-subset-template.md",
-    "GeneralStatments/Readme.md",
-    "DP/1-D/12 . Partition Equal Subset Sum.md",
-    "DP/1-D/11. Longest Increasing Subsequence.md",
-    "DP/1-D/8. Coin Change.md",
-    "DP/1-D/7. DecodeWays.md",
     "DP/1-D/6. Palindromic Substrings.md",
     "DP/1-D/5. Longest Palindromic Substring.md",
     "DP/1-D/4. House Robber II.md",
     "DP/1-D/3. House Robber.md",
+    "DP/1-D/12 . Partition Equal Subset Sum.md",
+    "DP/1-D/10. Word Break.md",
+    "DP/1-D/9. Max Product subarray.md",
+    "Templateds/subarray-substring-subset-template.md",
+    "GeneralStatments/Readme.md",
+    "DP/1-D/11. Longest Increasing Subsequence.md",
+    "DP/1-D/8. Coin Change.md",
+    "DP/1-D/7. DecodeWays.md",
     "DP/1-D/2. Min Cost Climbing Stairs.md",
     "DP/1-D/1. Climbing Stairs.md",
     "DP/1-D/Coin Change.md",
