@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Readme"
             }
-          },
-          {
-            "id": "f2d016e7368f53ac",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +189,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f2d016e7368f53ac",
+  "active": "2613542f27a32973",
   "lastOpenFiles": [
+    "DP/1-D/13..md",
     "conflict-files-obsidian-git.md",
     "GeneralStatments/Readme.md",
     "DP/1-D/H. Longest Increasing Subsequence.md",
