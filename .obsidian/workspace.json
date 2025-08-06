@@ -11,17 +11,32 @@
             "id": "2613542f27a32973",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "DP/1-D/5. Longest Palindromic Substring.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".idea/.gitignore",
+                "bFile": ".idea/.gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "5. Longest Palindromic Substring"
+              "icon": "diff",
+              "title": "Diff: .gitignore"
+            }
+          },
+          {
+            "id": "58c37eb482c89f5a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: app.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,8 +170,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -189,10 +204,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2613542f27a32973",
+  "active": "58c37eb482c89f5a",
   "lastOpenFiles": [
-    "DP/1-D/6. Palindromic Substrings.md",
+    "README.md",
     "DP/1-D/5. Longest Palindromic Substring.md",
+    "DP/1-D/6. Palindromic Substrings.md",
     "DP/1-D/4. House Robber II.md",
     "DP/1-D/3. House Robber.md",
     "DP/1-D/12 . Partition Equal Subset Sum.md",
@@ -212,7 +228,6 @@
     "DP/Untitled.md",
     "Sheets/NeetCode Sheet.md",
     "Templateds",
-    "README.md",
     "DP/1-D/Media",
     "DP/1-D/Media/img.png",
     "GeneralStatments",
