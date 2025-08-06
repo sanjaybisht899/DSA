@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DP/1-D/5. Longest Palindromic Substring.md",
+                "file": "GeneralStatments/Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Longest Palindromic Substring"
+              "title": "Readme"
             }
           }
         ]
@@ -189,10 +189,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2613542f27a32973",
+  "active": "de7c703e20cf5d5c",
   "lastOpenFiles": [
-    "DP/1-D/6. Palindromic Substrings.md",
+    "DP/1-D/H. Longest Increasing Subsequence.md",
     "DP/1-D/5. Longest Palindromic Substring.md",
+    "DP/1-D/6. Palindromic Substrings.md",
     "DP/1-D/4. House Robber II.md",
     "DP/1-D/3. House Robber.md",
     "DP/1-D/12 . Partition Equal Subset Sum.md",
