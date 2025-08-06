@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8cb7b1d12e10562b",
+        "id": "ba5343f94abcaeb8",
         "type": "tabs",
         "children": [
           {
-            "id": "2613542f27a32973",
+            "id": "354626cc40003cd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GeneralStatments/Readme.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Readme"
-            }
-          },
-          {
-            "id": "f2d016e7368f53ac",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,8 +151,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -204,11 +185,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f2d016e7368f53ac",
+  "active": "354626cc40003cd6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "GeneralStatments/Readme.md",
+    "DP/1-D/13. Unique path.md",
     "DP/1-D/H. Longest Increasing Subsequence.md",
+    "DP/1-D/11. Longest Increasing Subsequence.md",
+    "Templateds/subarray-substring-subset-template.md",
+    "GeneralStatments/Readme.md",
+    "DP/Short Notes/ApproachOrTemplates.md",
+    "README.md",
     "DP/1-D/5. Longest Palindromic Substring.md",
     "DP/1-D/6. Palindromic Substrings.md",
     "DP/1-D/4. House Robber II.md",
@@ -216,20 +201,16 @@
     "DP/1-D/12 . Partition Equal Subset Sum.md",
     "DP/1-D/10. Word Break.md",
     "DP/1-D/9. Max Product subarray.md",
-    "Templateds/subarray-substring-subset-template.md",
-    "DP/1-D/11. Longest Increasing Subsequence.md",
     "DP/1-D/8. Coin Change.md",
     "DP/1-D/7. DecodeWays.md",
     "DP/1-D/2. Min Cost Climbing Stairs.md",
     "DP/1-D/1. Climbing Stairs.md",
     "DP/1-D/Coin Change.md",
     "DP/1-D/D..md",
-    "DP/Short Notes/ApproachOrTemplates.md",
     "DP/Short Notes",
     "DP/Untitled.md",
     "Sheets/NeetCode Sheet.md",
     "Templateds",
-    "README.md",
     "DP/1-D/Media",
     "DP/1-D/Media/img.png",
     "GeneralStatments",
@@ -237,6 +218,7 @@
     "Sheets",
     "DP/1-D",
     "DP",
+    "conflict-files-obsidian-git.md",
     "Welcome.md"
   ]
 }
