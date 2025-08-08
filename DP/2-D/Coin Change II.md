@@ -1,7 +1,27 @@
 
 ---
+### Recursive (Brute Force – No Memo)
+
+```java
+int change(int amount, int[] coins) {
+    return helper(coins, amount, 0);
+}
+
+int helper(int[] coins, int amount, int index) {
+    if (amount == 0) return 1;
+    if (index >= coins.length || amount < 0) return 0;
+
+    // Two choices: take the coin or skip it
+    int take = helper(coins, amount - coins[index], index);     // use current coin again
+    int skip = helper(coins, amount, index + 1);                // move to next coin
+
+    return take + skip;
+}
+```
 
 
+
+Recursive Memoization
 
 ```java
 class Solution {
@@ -25,5 +45,9 @@ class Solution {
 }
 ```
 
+Recursion Tree
+
+[[90f7b5981fcfeb029e22b377aab0b080_MD5.jpeg|Open: Pasted image 20250808092459.png]]
+![[90f7b5981fcfeb029e22b377aab0b080_MD5.jpeg]]
 ---
 

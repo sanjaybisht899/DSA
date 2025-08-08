@@ -1,9 +1,5 @@
 
 ---
-
-
-# Sanjay Notes
-
 ### 494. Target Sum 
 
 #### Problem
